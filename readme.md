@@ -11,4 +11,4 @@
 - git branch canvas
 - git checkout canvas
 - git merge canvas
-- git co =commit
+- git commit -m " "
