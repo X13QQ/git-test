@@ -2,4 +2,5 @@ https://hackmd.io/@Yu040419/SyHrpos6V
 https://gitbook.tw/chapters/config/user-config.html
 https://backlog.com/git-tutorial/tw/intro/intro1_1.html
 https://iter01.com/67533.html
+https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 canvas test
