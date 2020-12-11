@@ -1,6 +1,6 @@
 # git practice
 
-這是資策會課程
+這是資策會課程  
 練習 git
 
 - git init
